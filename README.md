@@ -19,7 +19,7 @@ An intelligent web application that predicts liver disease risk using **Random F
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/liver-disease-ai.git](https://github.com/YOUR_USERNAME/liver-disease-ai.git)
+   git clone https://github.com/kamolchaisiri/liver-disease-ai.git
    ```
 2. **Install dependencies**
    ```bash
