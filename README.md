@@ -41,19 +41,14 @@ An intelligent web application that predicts liver disease risk using **Random F
 This project uses the Indian Liver Patient Dataset.
 
 ## 🚀 Project File Checklist
-    Ensure your project folder contains the following files:
+Ensure your project folder contains the following files:
+app.py (Main application code)
+indian_liver_patient.csv (Dataset)
+requirements.txt (List of dependencies)
+.gitignore (Configuration to exclude system files/secrets)
+README.md (Project documentation)
 
-    app.py (Main application code)
-
-    indian_liver_patient.csv (Dataset)
-
-    requirements.txt (List of dependencies)
-
-    .gitignore (Configuration to exclude system files/secrets)
-
-    README.md (Project documentation)
-
-    (Note: The .streamlit/secrets.toml folder/file should exist locally for your API Key, but it will not be uploaded to GitHub).
+(Note: The .streamlit/secrets.toml folder/file should exist locally for your API Key, but it will not be uploaded to GitHub).
 
 ## Ready to Upload?
     If you are ready, you can run the following Git commands in your terminal:
