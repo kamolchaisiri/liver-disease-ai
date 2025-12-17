@@ -55,11 +55,11 @@ This project uses the Indian Liver Patient Dataset.
 
     (Note: The .streamlit/secrets.toml folder/file should exist locally for your API Key, but it will not be uploaded to GitHub).
 
-    Ready to Upload?
+## Ready to Upload?
     If you are ready, you can run the following Git commands in your terminal:
     ```bash
     git init
     git add .
     git commit -m "Initial commit - Liver AI App"
     ```
-# (After this, follow the instructions provided on your GitHub repository page to push the code)
+## (After this, follow the instructions provided on your GitHub repository page to push the code)
