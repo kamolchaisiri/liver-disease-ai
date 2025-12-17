@@ -1,0 +1,13 @@
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+env/
+
+# ⚠️ IGNORE SECRETS (สำคัญที่สุด)
+.streamlit/secrets.toml
+
+# Ignore system files
+.DS_Store
