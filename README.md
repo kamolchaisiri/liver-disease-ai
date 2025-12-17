@@ -38,7 +38,7 @@ An intelligent web application that predicts liver disease risk using **Random F
    ```
 
 ## 📊 Dataset
-This project uses the Indian Liver Patient Dataset.
+This project uses [Link Text](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records?resource=download "the Indian Liver Patient Dataset").
 
 ## 🚀 Project File Checklist
 - Ensure your project folder contains the following files:
