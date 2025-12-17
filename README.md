@@ -57,6 +57,7 @@ This project uses the Indian Liver Patient Dataset.
 
 ## Ready to Upload?
     If you are ready, you can run the following Git commands in your terminal:
+    
     ```bash
     git init
     git add .
